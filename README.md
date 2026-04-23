@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src-tauri/icons/transifyr.png" width="128" alt="Transifyr Logo">
+  <img src="logo.png" width="128" alt="Transifyr Logo">
 </p>
 
 <h1 align="center">Transifyr</h1>
